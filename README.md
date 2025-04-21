@@ -2,6 +2,7 @@
 This project analyzes Uber ride data to uncover key insights related to ride frequency, usage patterns, and temporal trends. It uses Python for data cleaning, exploration, and visualization.
 
 --> Tools & Technologies
+
 Python Libraries:
 pandas – data manipulation
 matplotlib & seaborn – data visualization
